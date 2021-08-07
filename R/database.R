@@ -1,0 +1,14 @@
+#' Gene set database
+#' 
+#' Databases are structured as a column of gene set names followed by a number
+#' of gene columns containing genes for that respective gene set.
+#' Column names are optional, there is no limit on the number of gene columns,
+#' and additional columns are allowed.
+#' 
+#' @format A data frame with 243 rows and 6780 variables:
+#' \describe{
+#'   \item{X1}{gene set names}
+#'   \item{X_}{genes}
+#' }
+#' @source @seealso \code{\link{annotations}}
+"database"

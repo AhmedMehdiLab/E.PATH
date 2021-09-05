@@ -8,7 +8,20 @@
 #' @format A data frame with 243 rows and 17 variables:
 #' \describe{
 #'   \item{GeneSetModule}{gene set names}
-#'   \item{Annotation_}{annotations}
+#'   \item{Annotation1}{annotation column 1}
+#'   \item{Annotation2}{annotation column 2}
+#'   \item{Annotation3}{annotation column 3}
+#'   \item{Annotation4}{annotation column 4}
+#'   \item{Annotation5}{annotation column 5}
+#'   \item{Annotation6}{annotation column 6}
+#'   \item{Annotation7}{annotation column 7}
+#'   \item{Annotation8}{annotation column 8}
+#'   \item{Annotation9}{annotation column 9}
+#'   \item{Annotation10}{annotation column 10}
+#'   \item{Annotation11}{annotation column 11}
+#'   \item{Annotation12}{annotation column 12}
+#'   \item{Annotation13}{annotation column 13}
+#'   \item{Annotation14}{annotation column 14}
 #'   \item{Description}{gene set descriptions}
 #'   \item{Link}{link to raw data}
 #' }

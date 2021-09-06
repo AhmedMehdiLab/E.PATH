@@ -1,7 +1,7 @@
 Package: E.PATH
 Type: Package
 Title: Environmental Pathways Database
-Version: 1.0.0
+Version: 1.0.1
 Author: Ahmed Mehdi
 Maintainer: Ahmed Mehdi <amehdi.lab@gmail.com>
 Description: A curated database mapping gene lists to environmental pathways.

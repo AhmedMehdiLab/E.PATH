@@ -8,7 +8,8 @@ Environmental Pathways Database
 ## Installation
 To install this package, run:
 
-```
+``` r
+# install.packages("remotes")
 remotes::install_github("AhmedMehdiLab/E.PATH")
 ```
 
